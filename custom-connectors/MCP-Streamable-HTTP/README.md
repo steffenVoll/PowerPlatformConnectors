@@ -1,1 +1,0 @@
-# MCP Streamable HTTP Connector
